@@ -1,0 +1,3 @@
+This is a random character generator for the popular One Piece anime. It will randomly generate one of the crew members of the Straw Hat Pirates with the click of the generate button. Each character card includes an image, summary, and bried desciption of their abilities/power. 
+
+For this project, I utilizied the object array to build my data set for the characters and the React useState hook for the random generation interaction. 

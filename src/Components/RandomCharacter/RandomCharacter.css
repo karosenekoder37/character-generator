@@ -1,0 +1,73 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 25px;
+    background: #ffffff;
+    width: 1000px;
+    border-radius: 15px;
+}
+
+.cardHeader{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+}
+
+.onePieceLogo {
+    width: 13vw;
+    padding: 10px
+}
+
+.title {
+    font-size: 20px;
+    font-style: italic;
+    font-family: Rockwell;
+}
+
+.name{
+    padding: 20px 70px;
+    color:black;
+    font-size: 36px;
+    text-align: center;
+    font-family: Rockwell;
+    font-weight: bold;
+}
+
+.description{
+    padding: 15px 50px 0px 50px;
+    font-size: 18px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.devilFruit{
+    padding: 15px 120px 20px 120px;
+    font-size: 16px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}  
+
+.button{
+    padding: 10px 25px;
+    font-size: 20px;
+    background: #d7e0ff;
+    border-radius: 5%;
+    border: 0;
+}
+
+.button:hover{
+    border: 2px solid #6070aa;
+}
+
+.buttonArea{
+    padding: 0px 0px 20px 0px;
+}
+
+.characterImage{
+    height: 250px;
+    border-radius: 10%;
+}
