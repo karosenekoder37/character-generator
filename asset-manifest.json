@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/character-generator/static/css/main.fba1b6a7.css",
-    "main.js": "/character-generator/static/js/main.b7a14501.js",
+    "main.js": "/character-generator/static/js/main.300c75a5.js",
     "static/js/488.cd30693d.chunk.js": "/character-generator/static/js/488.cd30693d.chunk.js",
     "index.html": "/character-generator/index.html",
     "main.fba1b6a7.css.map": "/character-generator/static/css/main.fba1b6a7.css.map",
-    "main.b7a14501.js.map": "/character-generator/static/js/main.b7a14501.js.map",
+    "main.300c75a5.js.map": "/character-generator/static/js/main.300c75a5.js.map",
     "488.cd30693d.chunk.js.map": "/character-generator/static/js/488.cd30693d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fba1b6a7.css",
-    "static/js/main.b7a14501.js"
+    "static/js/main.300c75a5.js"
   ]
 }
